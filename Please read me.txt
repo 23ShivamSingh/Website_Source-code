@@ -1,0 +1,15 @@
+****************************
+Just UNZIP  the Source Code folder and you will get all the files of :
+CSS 
+JAVSCRIPT 
+HTML
+REACT
+BOOTSTRAP
+etc.
+
+
+Iam uploading the index.html on my github 
+
+Thank You
+
+****************************
